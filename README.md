@@ -61,5 +61,5 @@ The goal is not to replace human coaches, doctors, or financial advisors. It is 
 
 If you use one of these skills and improve it — submit a pull request. If you build a new skill for a domain not covered here — open an issue or submit it. The more people contribute, the better these get for everyone.
 
-**Built by:** Danny Carrizosa · [Adelante Story Foundation](https://adelantestory.com)
+**Built by:** Danny Carrizosa · [Delante Solutions](https://delantesolutions.com)
 **License:** MIT — free to use, modify, and share
